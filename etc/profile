@@ -52,5 +52,5 @@ xrandr --output VGA-0 --off
 # On met l'écran en 1920
 xrandr --output DVI-0 --mode 1920x1080
 
-# On se met en mode vi
+# On met le terminal en mode vi pour avoir accès aux raccourcis vi
 set -o vi
